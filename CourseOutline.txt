@@ -1,0 +1,157 @@
+THIS IS A COURSE FOR ABSOLUTE BEGINNERS AND I WILL BE EMPHASIZING ON THE BASICS 
+AND WON'T BE COVERING ADVANCED CONCEPTS.
+IF YOU ARE NOT A BEGINNER THEN EITHER WAIT FOR OUR "C# COURSE FOR PROS" OR JOIN THIS COURSE FROM LESSON 6.
+
+********************
+Lesson-1
+********************
+
+C# Intro
+	It is an object-oriented programming language created by Microsoft that runs on the .NET Framework.
+	C# has roots from the C family, and the language is close to other popular languages like C++ and Java.
+	The first version was released in year 2002. The latest version, C# 11, was released in November 2022.
+
+C# is used to develop:
+	Mobile applications
+	Desktop applications
+	Web applications
+	Web services
+	Web sites
+	Games
+	VR
+	Database applications
+	And much, much more!
+
+Why Use C#?
+	It is one of the most popular programming language in the world
+	It is easy to learn and simple to use
+	It has a huge community support
+	C# is an object oriented language which gives a clear structure to programs and allows code to be reused, lowering development costs
+	As C# is close to C, C++ and Java, it makes it easy for programmers to switch to C# or vice versa
+
+C# IDE
+	The easiest way to get started with C#, is to use an IDE.
+	An IDE (Integrated Development Environment) is used to edit and compile code.
+	In our tutorial, we will use Visual Studio Community, which is free to download from 
+	https://visualstudio.microsoft.com/vs/community/.
+	Applications written in C# use the .NET Framework, so it makes sense to use Visual Studio, as the program, 
+	the framework, and the language, are all created by Microsoft.
+
+C# Syntax
+	C# is a case sensitive language i.e. country and Country are two different things.
+	; is used as statement terminator.
+
+C# Output
+	Console.WriteLine("Hello World!");
+	Console.WriteLine("I am Learning C#");
+	Console.WriteLine("It is awesome!");
+	Console.WriteLine(3 + 3);
+	Console.Write("I will print on the same line.");
+
+C# Comments
+	Single line comments // this is a comment
+	Multiline comments /* This is 
+						  multiline comment. */
+
+C# Variables & Data Types
+	Variables are containers for storing data values.
+
+	In C#, there are different types of variables (defined with different keywords), for example:
+
+	int - stores integers (whole numbers), without decimals, such as 123 or -123
+	double - stores floating point numbers, with decimals, such as 19.99 or -19.99
+	char - stores single characters, such as 'a' or 'B'. Char values are surrounded by single quotes
+	string - stores text, such as "Hello World". String values are surrounded by double quotes
+	bool - stores values with two states: true or false
+
+	int myNum = 5;
+	double myDoubleNum = 5.99D;
+	char myLetter = 'D';
+	bool myBool = true;
+	string myText = "Hello";
+	int x = 5, y = 6, z = 50;
+
+C# User Input
+	// Type your username and press enter
+	Console.WriteLine("Enter username:");
+
+	// Create a string variable and get user input from the keyboard and store it in the variable
+	string userName = Console.ReadLine();
+
+	// Print the value of the variable (userName), which will display the input value
+	Console.WriteLine("Username is: " + userName);
+
+C# Operators
+C# Math
+C# Strings
+C# Booleans
+
+Problems:
+---------
+Problem # 1
+------------
+Problem # 2
+------------
+Assignment # 1
+---------------
+
+********************
+Lesson-2
+********************
+C# If...Else
+C# Switch
+C# While Loop
+C# For Loop
+C# Break/Continue
+
+Problems:
+---------
+Problem # 1
+------------
+Problem # 2
+------------
+Assignment # 2
+------------
+
+********************
+Lesson-3
+********************
+C# Type Casting
+C# Arrays
+
+Problems:
+---------
+Problem # 1
+------------
+Problem # 2
+------------
+Assignment # 3
+------------
+
+********************
+Lesson-4
+********************
+
+********************
+Lesson-5
+********************
+
+********************
+Lesson-6
+********************
+
+********************
+Lesson-7
+********************
+
+********************
+Lesson-8
+********************
+
+********************
+Lesson-9
+********************
+
+********************
+Lesson-10
+********************
