@@ -82,7 +82,8 @@ C# User Input
 	Console.WriteLine("Username is: " + userName);
 
 C# Operators
-C# Math
+	Arithmetic Operators ( + - * / % ++ --)
+	
 C# Strings
 C# Booleans
 
@@ -99,8 +100,11 @@ Assignment # 1
 Lesson-2
 ********************
 C# If...Else
-C# Switch
-C# While Loop
+C# Operators
+	Assignment Operators ( = =+ -= )
+	Comparison Operators ( ==  !=   >	<  >=  <=	)
+	Logical Operators ( &&  || 	! )
+
 C# For Loop
 C# Break/Continue
 
@@ -116,6 +120,9 @@ Assignment # 2
 ********************
 Lesson-3
 ********************
+C# Math
+C# Switch
+C# While Loop
 C# Type Casting
 C# Arrays
 
